@@ -1,1 +1,3 @@
 exportPattern("^[[:alpha:]]+")
+useDynLib(my_package_name)
+export(double_vector)
